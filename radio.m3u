@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1,i-Radio 8015
+https://i-radio.info:8015/radio
+
+#EXTINF:-1,Uporotaya Radio
+https://stream01.pcradio.ru/uporotaya-hi
+
+#EXTINF:-1,i-Radio 8025
+https://i-radio.info:8025/radio
+
+#EXTINF:-1,i-Radio 8010
+https://i-radio.info:8010/radio
+
+#EXTINF:-1,i-Radio 8060
+https://i-radio.info:8060/radio
+
+#EXTINF:-1,i-Radio 8120
+https://i-radio.info:8120/radio
+
+#EXTINF:-1,Drug Radio
+https://stream.drugradio.ru:8000/stream128
+
+#EXTINF:-1,Chill Russia
+https://chillrussia.ru/chillradio
+
+#EXTINF:-1,i-Radio 8075
+https://i-radio.info:8075/radio
+
+#EXTINF:-1,Marusya FM
+https://stream02.pcradio.biz/marusya_fm-hi
+
+#EXTINF:-1,MyRadio24 2666
+https://listen2.myradio24.com/2666
+
+#EXTINF:-1,DNB FM
+https://air.dnbfm.ru/radio/8000/play
