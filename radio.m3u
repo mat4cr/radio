@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Record Russian Hits Радио
+https://stream02.pcradio.biz/record_rushits-hi
+
 #EXTINF:-1,Радио Джа
 https://i-radio.info:8015/radio
 
